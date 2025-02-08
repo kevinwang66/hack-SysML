@@ -432,7 +432,6 @@ $$
   \text{推理时间} = \frac{4,000,000}{40.88 \times 8} \approx 3.40 \, \text{小时}
   $$
   
-
 - vLLM + AWQ 量化后 `qwen coder 1.5b` 的推理时间估算为：
 
 $$
